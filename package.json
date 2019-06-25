@@ -7,7 +7,7 @@
     "autoprefixer": "^9.5.1",
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.26.7",
     "css-mqpacker": "^7.0.0",
     "eslint-plugin-html": "^5.0.3",
     "gulp": "^4.0.2",
